@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java - iniciante.iml" filepath="$PROJECT_DIR$/.idea/Java - iniciante.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicaSequencial/LogicaSequencial.iml" filepath="$PROJECT_DIR$/LogicaSequencial/LogicaSequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/Variaveis/Variaveis.iml" />
     </modules>
   </component>
 </project>
