@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EntradaDados/EntradaDados.iml" filepath="$PROJECT_DIR$/EntradaDados/EntradaDados.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java - iniciante.iml" filepath="$PROJECT_DIR$/.idea/Java - iniciante.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicaSequencial/LogicaSequencial.iml" filepath="$PROJECT_DIR$/LogicaSequencial/LogicaSequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadoress/Operadoress.iml" filepath="$PROJECT_DIR$/Operadoress/Operadoress.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variaveis/Variaveis.iml" filepath="$PROJECT_DIR$/Variaveis/Variaveis.iml" />
     </modules>
   </component>
