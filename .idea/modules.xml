@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparativos/Comparativos.iml" filepath="$PROJECT_DIR$/Comparativos/Comparativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicional/Condicional.iml" filepath="$PROJECT_DIR$/Condicional/Condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/EntradaDados/EntradaDados.iml" filepath="$PROJECT_DIR$/EntradaDados/EntradaDados.iml" />
-      <module fileurl="file://$PROJECT_DIR$/If e Else/If e Else.iml" filepath="$PROJECT_DIR$/If e Else/If e Else.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java - iniciante.iml" filepath="$PROJECT_DIR$/.idea/Java - iniciante.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicaSequencial/LogicaSequencial.iml" filepath="$PROJECT_DIR$/LogicaSequencial/LogicaSequencial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/Operadores/Operadores.iml" />
