@@ -19,7 +19,7 @@ public class Main {
         System.out.println(salarios[1]);
 
         for (double salario : salarios){
-            System.out.println(salarioY);
+            System.out.println(salario);
         }
     }
 }
